@@ -1,0 +1,13 @@
+[
+ {
+  "name": "names.txt",
+  "parent": "dz8",
+  "type": "file"
+ },
+ {
+  "name": "dz8",
+  "parent": "Enots",
+  "type": "directory",
+  "size": 0
+ }
+]
